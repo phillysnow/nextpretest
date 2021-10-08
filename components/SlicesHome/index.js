@@ -1,0 +1,10 @@
+export { default as Navbar } from "./Navbar";
+export { default as Hero } from "./Hero";
+export { default as Signup } from "./Signup";
+export { default as Features } from "./Features";
+export { default as Generic } from "./Generic";
+export { default as Cta } from "./Cta";
+export { default as Faq } from "./Faq";
+export { default as Footer } from "./Footer";
+export { default as SocialIcons } from "./SocialIcons";
+export { default as SliceZone } from "./SliceZone";
