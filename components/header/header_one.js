@@ -21,7 +21,12 @@ import {
   XIcon,
 } from "@heroicons/react/outline";
 import { ChevronDownIcon } from "@heroicons/react/solid";
-import {Image, Video, Transformation, CloudinaryContext} from 'cloudinary-react';
+import {
+  Image,
+  Video,
+  Transformation,
+  CloudinaryContext,
+} from "cloudinary-react";
 
 const solutions = [
   {

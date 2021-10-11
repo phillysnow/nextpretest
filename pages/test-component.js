@@ -7,9 +7,9 @@ import HeroFour from "../components/heroes/hero_four";
 const Preview = () => {
   return (
     <div>
-      <HeroOne />
-      <HeroTwo />
-      <HeroThree />
+      {/* <HeroOne /> */}
+      {/* <HeroTwo /> */}
+      {/* <HeroThree /> */}
       <HeroFour />
     </div>
   );
